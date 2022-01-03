@@ -18,7 +18,7 @@ section{
 }
 .half-width{
     width: 50%;
-    padding-left: 10%;
+    padding-left: 8%;
 }
 .half-width img{
     width: 70%;
@@ -38,3 +38,14 @@ background-color: green;
 color:ivory
 }
 /*header end*/
+/*top-banner1 start*/
+.top-banner1{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;  
+    margin-top: 100px; 
+    background-position: right;
+}
+.halfa{
+    padding-right: 150px;
+}
+/*top-banner1 end*/
