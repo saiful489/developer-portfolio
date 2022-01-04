@@ -49,3 +49,47 @@ color:ivory
     padding-right: 150px;
 }
 /*top-banner1 end*/
+/*card start*/
+.card{
+    
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 30px;
+}
+.experience-area{
+    
+   
+}
+.card1{
+    display: flex;
+}
+.developer{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+}
+.d1{
+    border-left: 10px solid orange;
+
+}
+.d2{
+    border-left: 10px solid green;
+
+}
+.ex{
+    font-size:40px;
+}
+
+/*card end*/
+/*footer start*/
+.footer{
+    text-align: center;
+    color:grey;
+    font-size:18px;
+    margin-top: 100px;
+}
+/*footer end*/
